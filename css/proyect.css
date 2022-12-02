@@ -1,0 +1,188 @@
+body {
+
+    background-image: url(../img/Frame\ 8.svg);
+    background-size: cover;
+
+
+}
+
+a {
+
+    color: hsla(0, 0%, 0%, 1);
+    font-family: 'helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+#navbar {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    padding: 32px 0 32px 0;
+    width: 90%;
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+nav {
+
+    word-spacing: 32px;
+}
+
+
+#autodescripcion {
+
+    width: 33%;
+    height: 244px;
+
+    font-family: 'helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+
+#auto1 {
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 0px;
+
+    width: 744.9px;
+    height: 518px;
+}
+
+#autotitulo {
+
+    padding-right: 16px;
+    height: 97px;
+
+    font-family: 'helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 97px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+#autototalinstagram {
+
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+
+
+    width: 1239.9px;
+    height: 518px;
+    margin: 0 auto;
+
+    padding-top: 56px;
+}
+
+#automio{
+
+width: 33%;
+height: 97px;
+
+font-family: 'helvetica';
+font-style: normal;
+font-weight: 600;
+font-size: 60px;
+line-height: 97px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+}
+
+#auto2{
+    display: flex;
+flex-direction: column;
+align-items: flex-end;
+padding: 0px;
+
+width: 707px;
+height: 475px;
+
+}
+
+#autodescripcionmio{
+    width: 480px;
+    height: 183px;
+    
+    font-family: 'helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 61px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    
+    color: #000000;
+
+    padding-right: 320px;
+
+
+
+
+    
+}
+
+#autototalmio{
+
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+width: 1239.9px;
+height: 672px;
+
+margin: 0 auto;
+
+padding-top: 150px;
+padding-bottom: 300px;
+}
+
+#iconostotal{
+
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 24px;
+
+padding-bottom: 50px;
+}
+
+p:hover{
+    color: rgb(158, 48, 77);
+}
+
+a:hover{
+    color: rgb(91, 196, 161);
+}

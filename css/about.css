@@ -1,0 +1,41 @@
+body {
+
+    background-image: url(../img/Frame\ 8.svg);
+    background-size: cover;
+
+
+}
+
+a {
+
+    color: hsla(0, 0%, 0%, 1);
+    font-family: 'helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+#navbar {
+
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+    padding: 32px 0 32px 0;
+    width: 90%;
+    max-width: 1290px;
+    margin: 0 auto;
+}
+
+nav {
+
+    word-spacing: 32px;
+}
+
+main{
+
+    display: flex;
+    justify-content: flex-end;
+    
+}

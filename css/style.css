@@ -1,0 +1,42 @@
+nav {
+
+    display: flex;
+    justify-content: flex-end;
+    gap: 32px;
+    padding: 32px 0 32px 0;
+    width: 90%;
+    max-width: 1290px;
+    margin: 0 auto;
+
+}
+
+a {
+
+    color: hsla(0, 0%, 0%, 1);
+    font-family: 'helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+body {
+    background: #F5F5F5;
+}
+
+main {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+a:hover {
+    color: rgb(57, 187, 156);
+  }
+
+
+
